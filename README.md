@@ -44,6 +44,6 @@
 **Датасет**: [https://github.com/seaone/12_team_hak_19_10/blob/main/final_dataset.csv](https://github.com/seaone/12_team_hak_19_10/blob/main/final_dataset.csv)
 
 ## Источники
-В качестве источника данных о климате используются сайт [https://www.data.gov/](https://www.data.gov/). Данные об урожайности сельскохозяйственных культур взяты из сайта: [http://www.amis-outlook.org/](http://www.amis-outlook.org/)
+В качестве источника данных о климате используются [https://www.data.gov/](https://www.data.gov/). Данные об урожайности сельскохозяйственных культур взяты из [http://www.amis-outlook.org/](http://www.amis-outlook.org/)
 
 
