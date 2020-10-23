@@ -40,47 +40,26 @@
 [
 
  Argentina: {
-
         years: [
-
             2000: {
-
                 avgTemp: 12,
-
                 wheat: 200,
-
                 cerel: 100,
-
                 soybeans: 300,
-
                 ...
-
             },
-
             2001: {
-
                 avgTemp: 20,
-
                 wheat: 200,
-
                 cerel: 100,
-
                 soybeans: 300,
-
                 ...
-
             },
-
             ...
-
         ]
-
     },
-
     Turkey: {...},
-
     ...
-
 ]
 ```
 
